@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Chase Travel Portal CPP Calculator
 // @namespace    https://chase.com/travel-portal-cpp
-// @version      1.2
+// @version      1.0
 // @description  Shows cents-per-point values on Chase Travel Portal hotel and flights results when "Boosted"
 // @author       Cintra
 // @match        https://travel.chase.com/*
